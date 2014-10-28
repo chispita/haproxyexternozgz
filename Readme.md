@@ -1,4 +1,4 @@
-# Haproxy - Configuration of Zaragoza external haproxy
+# Haproxy - Configuration of Zaragoza external balanced
 
 **Carlos Val Gascón carlos.val@bifi.es**
 
